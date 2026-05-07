@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a Research Assistant in AI Education at RPCERC at the University of Cambridge. I'm currently looking into how we can educate young people about how AI works.
 <!--
 **ZoeFHastings/ZoeFHastings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
